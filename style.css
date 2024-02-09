@@ -23,6 +23,7 @@ body, p{
     width: 9cm;
     height: 14cm;
     box-shadow: 5px 5px 50px hsla(217, 45%, 22%, 0.14);
+    position: relative;
 
 }
 
@@ -53,7 +54,7 @@ h1{
 p{
   position: absolute; 
   font-size: 14px;
-  transform: translate(35px, 85px);
+  transform: translate(25px, 85px);
   color: rgb(107, 101, 101);
 }
 
